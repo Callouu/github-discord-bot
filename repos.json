@@ -1,0 +1,11 @@
+{
+  "repos": [
+    {
+      "owner": "vercel",
+      "repo": "next.js",
+      "lastSha": null,
+      "guildId": "1234567890",
+      "channelId": "1234567890"
+    }
+  ]
+}
