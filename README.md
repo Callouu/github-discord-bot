@@ -1,4 +1,4 @@
-# 📘 GitHub‑Discord‑Bot
+# GitHub‑Discord‑Bot
 
 Work in progress
 
@@ -6,7 +6,7 @@ Work in progress
 
 ---
 
-## 🚀 Features
+## Features
 
 - Monitor GitHub repositories for activity (commits, issues, pull requests)
 - Send automatic updates to a Discord channel or webhook
