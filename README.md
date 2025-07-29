@@ -95,7 +95,7 @@ Tips:
 
 ## License
 
-This project is open-source. Make sure to add a `LICENSE` file if one is missing (MIT is a common default).
+This project is open-source
 
 ---
 
